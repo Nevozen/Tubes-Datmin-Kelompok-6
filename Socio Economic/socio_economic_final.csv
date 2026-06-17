@@ -1,0 +1,515 @@
+province,cities_reg,poorpeople_percentage,reg_gdp,life_exp,avg_schooltime,exp_percap,cluster,label_cluster,skor_pembangunan,target_kategori_pembangunan
+Aceh,Simeulue,18.98,2.275,65.24,9.48,7148,0,Pembangunan Sedang,0.47051280055209677,Rendah
+Aceh,Aceh Singkil,20.36,2.425,67.355,8.68,8776,0,Pembangunan Sedang,0.4881568338781644,Rendah
+Aceh,Aceh Selatan,13.18,5.531,64.36,8.88,8180,0,Pembangunan Sedang,0.4974536082004705,Rendah
+Aceh,Aceh Tenggara,13.41,5.063,68.155,9.67,8030,0,Pembangunan Sedang,0.5536106467227219,Sedang
+Aceh,Aceh Timur,14.45,10.616,68.705,8.21,8577,0,Pembangunan Sedang,0.5279849250722084,Rendah
+Aceh,Aceh Tengah,15.26,7.389,68.79,9.86,10780,0,Pembangunan Sedang,0.5875864025416941,Sedang
+Aceh,Aceh Barat,18.81,8.116,67.945,9.55,9593,0,Pembangunan Sedang,0.5339016937079368,Rendah
+Aceh,Aceh Besar,14.05,13.336,69.745,10.33,9644,0,Pembangunan Sedang,0.6019409407064137,Sedang
+Aceh,Pidie,19.59,10.76,66.9,9.0,9860,0,Pembangunan Sedang,0.5086198955365884,Rendah
+Aceh,Bireuen,13.25,13.09,71.2,9.29,8867,0,Pembangunan Sedang,0.5906675892483332,Sedang
+Aceh,Aceh Utara,17.43,19.695,68.755,8.64,8201,0,Pembangunan Sedang,0.514275244774119,Rendah
+Aceh,Aceh Barat Daya,16.34,3.92,65.015,8.67,8428,0,Pembangunan Sedang,0.4831366980609192,Rendah
+Aceh,Gayo Lues,19.64,2.695,65.475,8.4,8856,0,Pembangunan Sedang,0.4667059446186633,Rendah
+Aceh,Aceh Tamiang,13.34,7.513,69.565,8.91,8367,0,Pembangunan Sedang,0.5573123414672884,Sedang
+Aceh,Nagan Raya,18.23,7.674,69.215,8.69,8292,0,Pembangunan Sedang,0.5165361732272165,Rendah
+Aceh,Aceh Jaya,13.23,2.626,67.14,8.71,9666,0,Pembangunan Sedang,0.5429771637103273,Rendah
+Aceh,Bener Meriah,19.16,4.522,69.205,10.0,11118,0,Pembangunan Sedang,0.5746899543370064,Sedang
+Aceh,Pidie Jaya,19.55,3.476,70.145,9.34,10290,0,Pembangunan Sedang,0.5578024467782898,Sedang
+Aceh,Kota Banda Aceh,7.61,18.288,71.47,12.83,16891,1,Pembangunan Tinggi,0.8078725320722278,Tinggi
+Aceh,Kota Sabang,15.32,1.533,70.505,11.18,11378,1,Pembangunan Tinggi,0.6427028301513675,Tinggi
+Aceh,Kota Langsa,10.96,5.279,69.385,11.12,12067,1,Pembangunan Tinggi,0.6653355009020315,Tinggi
+Aceh,Kota Lhokseumawe,11.16,8.918,71.61,11.11,11390,1,Pembangunan Tinggi,0.6800822975717119,Tinggi
+Aceh,Kota Subulussalam,17.65,1.804,64.025,8.03,7385,2,Pembangunan Rendah,0.43667387791027357,Rendah
+Sumatera Utara,Nias,16.82,4.041,69.745,5.64,6995,0,Pembangunan Sedang,0.4482915285517639,Rendah
+Sumatera Utara,Mandailing Natal,9.49,13.843,62.605,8.63,9771,0,Pembangunan Sedang,0.5159235742843191,Rendah
+Sumatera Utara,Tapanuli Selatan,8.8,14.642,64.935,9.29,11304,0,Pembangunan Sedang,0.5799294685569514,Sedang
+Sumatera Utara,Tapanuli Tengah,12.67,10.139,67.18,8.84,10138,0,Pembangunan Sedang,0.5557605127789379,Sedang
+Sumatera Utara,Tapanuli Utara,9.72,8.274,68.71,9.99,11710,0,Pembangunan Sedang,0.6364813494691971,Tinggi
+Sumatera Utara,Toba Samosir,8.99,7.845,70.21,10.57,12224,1,Pembangunan Tinggi,0.6769668106882426,Tinggi
+Sumatera Utara,Labuhan Batu,8.74,34.653,69.91,9.25,11212,0,Pembangunan Sedang,0.6335944899462572,Tinggi
+Sumatera Utara,Asahan,9.35,38.692,68.335,8.8,11030,0,Pembangunan Sedang,0.6000556062362062,Sedang
+Sumatera Utara,Simalungun,8.81,39.441,71.325,9.61,11376,1,Pembangunan Tinggi,0.6588285588611756,Tinggi
+Sumatera Utara,Dairi,8.31,9.318,69.14,9.59,10504,0,Pembangunan Sedang,0.6263304821086914,Tinggi
+Sumatera Utara,Karo,8.79,20.975,71.505,10.0,12412,1,Pembangunan Tinggi,0.6825095519921107,Tinggi
+Sumatera Utara,Deli Serdang,4.01,110.145,71.765,10.1,12291,1,Pembangunan Tinggi,0.7164948510782352,Tinggi
+Sumatera Utara,Langkat,10.12,43.208,68.935,8.66,11142,0,Pembangunan Sedang,0.6001647100425078,Sedang
+Sumatera Utara,Nias Selatan,16.92,7.164,68.815,6.06,7041,0,Pembangunan Sedang,0.4470948406909999,Rendah
+Sumatera Utara,Humbang Hasundutan,9.65,6.123,69.435,9.71,8016,0,Pembangunan Sedang,0.5924737611021192,Sedang
+Sumatera Utara,Pakpak Bharat,9.35,1.211,65.89,9.14,8254,0,Pembangunan Sedang,0.5454670672244664,Rendah
+Sumatera Utara,Samosir,12.68,4.543,71.345,9.44,8504,0,Pembangunan Sedang,0.5946366130330504,Sedang
+Sumatera Utara,Serdang Bedagai,8.3,28.602,68.805,8.69,11017,0,Pembangunan Sedang,0.6093907178059792,Sedang
+Sumatera Utara,Batu Bara,12.38,34.988,67.075,8.07,10539,0,Pembangunan Sedang,0.5446022776565858,Rendah
+Sumatera Utara,Padang Lawas Utara,9.92,12.19,67.19,9.38,10055,0,Pembangunan Sedang,0.5841638852192699,Sedang
+Sumatera Utara,Padang Lawas,8.69,11.997,67.11,9.02,8921,0,Pembangunan Sedang,0.5689773514031703,Sedang
+Sumatera Utara,Labuhan Batu Selatan,8.53,28.199,68.715,8.9,11562,0,Pembangunan Sedang,0.6183700358741482,Sedang
+Sumatera Utara,Labuhan Batu Utara,10.02,25.191,69.535,8.41,11840,0,Pembangunan Sedang,0.6107581888097134,Sedang
+Sumatera Utara,Nias Utara,25.66,3.71,69.485,6.77,6155,2,Pembangunan Rendah,0.4033505624974611,Rendah
+Sumatera Utara,Nias Barat,26.42,1.923,69.03,6.69,5924,2,Pembangunan Rendah,0.38880145758567564,Rendah
+Sumatera Utara,Kota Sibolga,12.33,5.605,69.235,10.41,11540,0,Pembangunan Sedang,0.6327751298233459,Tinggi
+Sumatera Utara,Kota Tanjung Balai,13.4,9.181,63.425,9.45,11225,0,Pembangunan Sedang,0.5363773449435826,Rendah
+Sumatera Utara,Kota Pematang Siantar,8.52,13.92,73.74,11.29,12436,1,Pembangunan Tinggi,0.7376438896361327,Tinggi
+Sumatera Utara,Kota Tebing Tinggi,10.3,6.049,70.935,10.44,12939,1,Pembangunan Tinggi,0.6828187840015052,Tinggi
+Sumatera Utara,Kota Medan,8.34,242.198,73.22,11.48,14999,1,Pembangunan Tinggi,0.7693499815045062,Tinggi
+Sumatera Utara,Kota Binjai,5.81,11.769,72.43,10.94,11063,1,Pembangunan Tinggi,0.715419526852671,Tinggi
+Sumatera Utara,Kota Padangsidimpuan,7.53,6.479,69.385,11.09,10965,1,Pembangunan Tinggi,0.6726727529626286,Tinggi
+Sumatera Utara,Kota Gunungsitoli,16.45,5.776,71.27,8.62,8134,0,Pembangunan Sedang,0.5471961887716845,Sedang
+Sumatera Barat,Kepulauan Mentawai,14.84,4.629,64.66,7.2,6321,2,Pembangunan Rendah,0.4300739793052746,Rendah
+Sumatera Barat,Pesisir Selatan,7.92,13.995,70.89,8.27,9270,0,Pembangunan Sedang,0.6038549091949864,Sedang
+Sumatera Barat,Solok,8.01,13.511,68.74,7.87,10215,0,Pembangunan Sedang,0.5824777359727802,Sedang
+Sumatera Barat,Sijunjung,6.8,9.123,66.31,8.12,10389,0,Pembangunan Sedang,0.5708231076049745,Sedang
+Sumatera Barat,Tanah Datar,4.54,13.027,70.08,8.62,10616,0,Pembangunan Sedang,0.6409291939795814,Tinggi
+Sumatera Barat,Padang Pariaman,7.22,17.942,68.915,7.88,11050,0,Pembangunan Sedang,0.6001542156619791,Sedang
+Sumatera Barat,Agam,6.85,20.371,72.485,8.97,9662,0,Pembangunan Sedang,0.6486581141763461,Tinggi
+Sumatera Barat,Lima Puluh Kota,7.29,15.533,69.8,8.07,9668,0,Pembangunan Sedang,0.5963602585530392,Sedang
+Sumatera Barat,Pasaman,7.48,8.891,67.54,8.1,8440,0,Pembangunan Sedang,0.5552626083834319,Sedang
+Sumatera Barat,Solok Selatan,7.52,5.529,67.965,8.32,10367,0,Pembangunan Sedang,0.5887476848053722,Sedang
+Sumatera Barat,Dharmasraya,6.67,10.242,71.48,8.55,11324,0,Pembangunan Sedang,0.6502939792740126,Tinggi
+Sumatera Barat,Pasaman Barat,7.51,15.246,67.815,8.27,9089,0,Pembangunan Sedang,0.5700024210280779,Sedang
+Sumatera Barat,Kota Padang,4.94,62.222,73.645,11.59,14540,1,Pembangunan Tinggi,0.7923621751283642,Tinggi
+Sumatera Barat,Kota Solok,3.12,4.042,73.695,11.04,12168,1,Pembangunan Tinggi,0.7626697351925105,Tinggi
+Sumatera Barat,Kota Sawah Lunto,2.38,3.657,70.07,10.32,10195,1,Pembangunan Tinggi,0.6865277336334453,Tinggi
+Sumatera Barat,Kota Padang Panjang,5.92,3.473,72.75,11.63,10754,1,Pembangunan Tinggi,0.7295160996839835,Tinggi
+Sumatera Barat,Kota Bukittinggi,5.14,8.628,74.48,11.34,13331,1,Pembangunan Tinggi,0.7797162897397043,Tinggi
+Sumatera Barat,Kota Payakumbuh,6.16,6.824,73.805,10.81,13317,1,Pembangunan Tinggi,0.7539310391323595,Tinggi
+Sumatera Barat,Kota Pariaman,4.38,4.994,70.28,10.67,12818,1,Pembangunan Tinggi,0.7167346135515661,Tinggi
+Riau,Kuantan Singingi,8.97,33.749,68.485,8.75,10309,0,Pembangunan Sedang,0.5939940578703587,Sedang
+Riau,Indragiri Hulu,6.18,42.626,70.205,8.39,10260,0,Pembangunan Sedang,0.6223720219171021,Sedang
+Riau,Indragiri Hilir,6.18,65.023,67.945,7.24,9945,0,Pembangunan Sedang,0.5680920618878224,Sedang
+Riau,Pelalawan,9.63,50.64,71.185,8.7,11672,0,Pembangunan Sedang,0.6358307262817255,Tinggi
+Riau,Siak,5.18,77.844,71.085,9.86,11807,1,Pembangunan Tinggi,0.6901524346656833,Tinggi
+Riau,Kampar,7.82,72.977,70.78,9.27,10858,0,Pembangunan Sedang,0.6451166585532557,Tinggi
+Riau,Rokan Hulu,10.4,36.084,70.135,8.54,9406,0,Pembangunan Sedang,0.5872996862649489,Sedang
+Riau,Bengkalis,6.64,115.883,71.195,9.7,11415,1,Pembangunan Tinggi,0.6736558595133514,Tinggi
+Riau,Rokan Hilir,7.18,67.951,70.35,8.26,9417,0,Pembangunan Sedang,0.6041871971778447,Sedang
+Riau,Kepulauan Meranti,25.68,18.066,67.73,7.84,7780,2,Pembangunan Rendah,0.4275568796345763,Rendah
+Riau,Kota Pekanbaru,2.83,115.519,72.385,11.92,14360,1,Pembangunan Tinggi,0.7967526174471811,Tinggi
+Riau,Kota Dumai,3.42,36.323,70.93,10.14,11818,1,Pembangunan Tinggi,0.7059037698561904,Tinggi
+Jambi,Kerinci,7.71,10.447,70.0,8.56,10184,0,Pembangunan Sedang,0.6131255488983265,Sedang
+Jambi,Merangin,9.11,15.688,71.29,7.9,10380,0,Pembangunan Sedang,0.6065578857145061,Sedang
+Jambi,Sarolangun,8.87,14.503,69.235,8.04,11792,0,Pembangunan Sedang,0.6060323027891016,Sedang
+Jambi,Batang Hari,10.05,16.432,70.63,8.12,10032,0,Pembangunan Sedang,0.5936880802928154,Sedang
+Jambi,Muaro Jambi,4.53,24.509,71.34,8.58,8825,0,Pembangunan Sedang,0.6316393146336766,Tinggi
+Jambi,Tanjung Jabung Timur,11.39,19.5,66.325,6.92,9163,0,Pembangunan Sedang,0.5000910916522332,Rendah
+Jambi,Tanjung Jabung Barat,10.75,37.154,68.145,8.0,9699,0,Pembangunan Sedang,0.5547931875017487,Sedang
+Jambi,Tebo,6.68,14.759,69.97,7.59,10546,0,Pembangunan Sedang,0.6026392035766452,Sedang
+Jambi,Bungo,6.23,17.375,67.84,8.28,11670,0,Pembangunan Sedang,0.6110512120355032,Sedang
+Jambi,Kota Jambi,9.02,29.815,72.7,11.2,12240,1,Pembangunan Tinggi,0.7184655621110164,Tinggi
+Jambi,Kota Sungai Penuh,3.41,7.566,72.205,10.33,10454,1,Pembangunan Tinggi,0.7071811962413846,Tinggi
+Sumatera Selatan,Ogan Komering Ulu,12.62,14.833,68.09,8.71,10040,0,Pembangunan Sedang,0.5621178047974599,Sedang
+Sumatera Selatan,Ogan Komering Ilir,14.68,29.345,68.53,7.05,10755,0,Pembangunan Sedang,0.5265043520949871,Rendah
+Sumatera Selatan,Muara Enim,12.32,57.757,69.17,7.8,10995,0,Pembangunan Sedang,0.5680867855944186,Sedang
+Sumatera Selatan,Lahat,16.46,17.365,66.12,8.52,9735,0,Pembangunan Sedang,0.507782031012078,Rendah
+Sumatera Selatan,Musi Rawas,13.89,19.303,68.21,7.53,9550,0,Pembangunan Sedang,0.5233624510340167,Rendah
+Sumatera Selatan,Musi Banyuasin,15.84,66.515,68.7,7.63,10140,0,Pembangunan Sedang,0.5259982852833894,Rendah
+Sumatera Selatan,Banyu Asin,10.75,29.194,68.915,7.44,9860,0,Pembangunan Sedang,0.5531059060498975,Sedang
+Sumatera Selatan,Ogan Komering Ulu Selatan,11.12,8.976,67.03,7.85,8585,0,Pembangunan Sedang,0.5227680143707147,Rendah
+Sumatera Selatan,Ogan Komering Ulu Timur,10.6,15.23,69.145,7.56,11531,0,Pembangunan Sedang,0.580226934500503,Sedang
+Sumatera Selatan,Ogan Ilir,13.82,11.344,65.56,7.87,10454,0,Pembangunan Sedang,0.5131434285570098,Rendah
+Sumatera Selatan,Empat Lawang,13.35,5.088,65.095,7.64,9400,0,Pembangunan Sedang,0.4926919940598118,Rendah
+Sumatera Selatan,Penukal Abab Lematang Ilir,12.91,7.158,68.19,7.05,8210,0,Pembangunan Sedang,0.5020362354557495,Rendah
+Sumatera Selatan,Musi Rawas Utara,20.11,7.198,65.72,7.09,9855,0,Pembangunan Sedang,0.4502784342974763,Rendah
+Sumatera Selatan,Kota Palembang,11.34,155.822,70.97,10.75,14704,1,Pembangunan Tinggi,0.7055410792045688,Tinggi
+Sumatera Selatan,Kota Prabumulih,12.2,7.878,70.42,9.97,12752,1,Pembangunan Tinggi,0.6523542617167597,Tinggi
+Sumatera Selatan,Kota Pagar Alam,9.4,2.836,66.82,9.4,8877,0,Pembangunan Sedang,0.5690077395992403,Sedang
+Sumatera Selatan,Kota Lubuklinggau,13.23,6.734,69.285,9.9,13267,1,Pembangunan Tinggi,0.6381114464574009,Tinggi
+Bengkulu,Bengkulu Selatan,18.16,5.824,67.935,9.27,9916,0,Pembangunan Sedang,0.535847848036415,Rendah
+Bengkulu,Rejang Lebong,15.85,9.537,68.765,8.33,10323,0,Pembangunan Sedang,0.5442923764817167,Rendah
+Bengkulu,Bengkulu Utara,11.61,8.416,68.215,8.09,10410,0,Pembangunan Sedang,0.560996692970727,Sedang
+Bengkulu,Kaur,18.62,3.618,66.73,8.38,8638,0,Pembangunan Sedang,0.48397628983775215,Rendah
+Bengkulu,Seluma,18.72,4.744,67.88,8.0,8256,0,Pembangunan Sedang,0.48300400295406304,Rendah
+Bengkulu,Mukomuko,11.93,5.265,66.72,8.3,10405,0,Pembangunan Sedang,0.5468762912986177,Sedang
+Bengkulu,Lebong,12.0,3.401,63.335,8.18,11317,0,Pembangunan Sedang,0.5176156791494292,Rendah
+Bengkulu,Kepahiang,14.83,4.41,68.075,8.29,9377,0,Pembangunan Sedang,0.5303587645216871,Rendah
+Bengkulu,Bengkulu Tengah,9.68,4.672,68.195,7.48,9471,0,Pembangunan Sedang,0.5479030852603016,Sedang
+Bengkulu,Kota Bengkulu,17.89,23.502,70.195,11.8,14108,1,Pembangunan Tinggi,0.6707595517491758,Tinggi
+Lampung,Lampung Barat,12.82,7.138,67.58,8.07,9969,0,Pembangunan Sedang,0.5402602361223345,Rendah
+Lampung,Tanggamus,11.81,15.541,68.615,7.34,9266,0,Pembangunan Sedang,0.5333750383101027,Rendah
+Lampung,Lampung Selatan,14.19,44.299,69.365,7.7,9931,0,Pembangunan Sedang,0.5428033274090156,Rendah
+Lampung,Lampung Timur,15.08,40.787,70.725,7.77,10026,0,Pembangunan Sedang,0.5549865494524894,Sedang
+Lampung,Lampung Tengah,11.99,71.592,69.825,7.59,11259,0,Pembangunan Sedang,0.5761830811362401,Sedang
+Lampung,Lampung Utara,19.63,23.808,69.25,8.34,8737,0,Pembangunan Sedang,0.505933306092431,Rendah
+Lampung,Way Kanan,13.09,14.038,69.395,7.71,9173,0,Pembangunan Sedang,0.5408401332433985,Rendah
+Lampung,Tulangbawang,9.67,23.19,69.96,7.55,10735,0,Pembangunan Sedang,0.5849944943596758,Sedang
+Lampung,Pesawaran,15.11,16.234,69.085,7.71,7934,0,Pembangunan Sedang,0.5089810293290394,Rendah
+Lampung,Pringsewu,10.11,11.177,70.205,8.39,10302,0,Pembangunan Sedang,0.597886613001785,Sedang
+Lampung,Mesuji,7.54,10.435,68.195,7.08,7980,0,Pembangunan Sedang,0.5340391388833824,Rendah
+Lampung,Tulang Bawang Barat,8.32,11.433,69.985,7.39,8422,0,Pembangunan Sedang,0.5613186423286509,Sedang
+Lampung,Pesisir Barat,14.81,4.629,63.615,8.19,8533,0,Pembangunan Sedang,0.46810975550814066,Rendah
+Lampung,Kota Bandar Lampung,9.11,59.079,71.335,10.95,12247,1,Pembangunan Tinggi,0.6973262025156836,Tinggi
+Lampung,Kota Metro,8.93,6.298,71.62,10.97,11916,1,Pembangunan Tinggi,0.6979230295217178,Tinggi
+Kepulauan Bangka Belitung,Bangka,4.81,13.944,71.075,8.25,12424,0,Pembangunan Sedang,0.6648666487690426,Tinggi
+Kepulauan Bangka Belitung,Belitung,7.15,9.839,71.045,8.47,13563,1,Pembangunan Tinggi,0.6687607726061836,Tinggi
+Kepulauan Bangka Belitung,Bangka Barat,2.75,13.391,70.05,7.44,12269,0,Pembangunan Sedang,0.646887507676543,Tinggi
+Kepulauan Bangka Belitung,Bangka Tengah,5.13,8.449,71.48,7.2,12945,0,Pembangunan Sedang,0.6508681375624636,Tinggi
+Kepulauan Bangka Belitung,Bangka Selatan,3.69,8.695,68.3,6.71,11768,0,Pembangunan Sedang,0.59916248499767,Sedang
+Kepulauan Bangka Belitung,Belitung Timur,7.2,7.856,72.075,8.47,11760,0,Pembangunan Sedang,0.6572575204098452,Tinggi
+Kepulauan Bangka Belitung,Kota Pangkal Pinang,4.76,13.464,73.355,10.13,15716,1,Pembangunan Tinggi,0.773058907446213,Tinggi
+Kepulauan Riau,Karimun,6.85,13.311,71.065,8.18,11879,0,Pembangunan Sedang,0.643395407009295,Tinggi
+Kepulauan Riau,Bintan,6.42,20.744,70.41,8.67,14393,1,Pembangunan Tinggi,0.6811496132494899,Tinggi
+Kepulauan Riau,Natuna,4.95,18.406,65.245,8.92,14711,0,Pembangunan Sedang,0.6425485643710748,Tinggi
+Kepulauan Riau,Lingga,13.93,4.292,62.35,6.88,11938,0,Pembangunan Sedang,0.47369334844692756,Rendah
+Kepulauan Riau,Kepulauan Anambas,7.09,14.454,67.31,7.34,11950,0,Pembangunan Sedang,0.5826043707908022,Sedang
+Kepulauan Riau,Kota Batam,5.05,161.364,73.31,11.15,18034,1,Pembangunan Tinggi,0.8221647211387115,Tinggi
+Kepulauan Riau,Kota Tanjung Pinang,9.57,19.665,72.13,10.26,15439,1,Pembangunan Tinggi,0.7281957487044186,Tinggi
+DKI Jakarta,Kepulauan Seribu,15.06,6.347,68.935,8.81,12587,0,Pembangunan Sedang,0.5901526901243035,Sedang
+DKI Jakarta,Kota Jakarta Selatan,3.56,644.572,74.225,11.64,23888,1,Pembangunan Tinggi,0.9260559569086024,Tinggi
+DKI Jakarta,Kota Jakarta Timur,4.28,470.998,74.485,11.67,17733,1,Pembangunan Tinggi,0.8477440853323458,Tinggi
+DKI Jakarta,Kota Jakarta Pusat,4.94,701.98,74.15,11.39,17365,1,Pembangunan Tinggi,0.8290634702005227,Tinggi
+DKI Jakarta,Kota Jakarta Barat,4.31,469.918,73.655,10.78,20801,1,Pembangunan Tinggi,0.857343821522081,Tinggi
+DKI Jakarta,Kota Jakarta Utara,7.24,497.299,73.33,10.81,18762,1,Pembangunan Tinggi,0.810139311914702,Tinggi
+Jawa Barat,Bogor,8.13,236.147,71.385,8.31,10410,1,Pembangunan Tinggi,0.6232114215514662,Sedang
+Jawa Barat,Sukabumi,7.7,67.392,71.2,7.1,8850,0,Pembangunan Sedang,0.5777932455071599,Sedang
+Jawa Barat,Cianjur,11.18,47.523,70.34,7.19,8052,0,Pembangunan Sedang,0.5380355096168845,Rendah
+Jawa Barat,Bandung,7.15,123.049,73.73,9.07,10307,1,Pembangunan Tinggi,0.6708804995018138,Tinggi
+Jawa Barat,Garut,10.65,58.043,71.61,7.53,7961,0,Pembangunan Sedang,0.5618363308235884,Sedang
+Jawa Barat,Tasikmalaya,11.15,37.446,69.685,7.48,7829,0,Pembangunan Sedang,0.5344980697820534,Rendah
+Jawa Barat,Ciamis,7.97,31.974,72.05,7.9,9259,0,Pembangunan Sedang,0.6081891368779181,Sedang
+Jawa Barat,Kuningan,13.1,25.618,73.795,7.8,9409,0,Pembangunan Sedang,0.5946329826369346,Sedang
+Jawa Barat,Cirebon,12.3,49.561,72.205,7.1,10368,0,Pembangunan Sedang,0.578749234820674,Sedang
+Jawa Barat,Majalengka,12.33,32.055,70.475,7.31,9591,0,Pembangunan Sedang,0.5541690555000429,Sedang
+Jawa Barat,Sumedang,10.71,35.491,72.63,8.52,10262,0,Pembangunan Sedang,0.6233764640140835,Sedang
+Jawa Barat,Indramayu,13.04,79.286,71.865,6.52,9810,0,Pembangunan Sedang,0.550545184499087,Sedang
+Jawa Barat,Subang,10.03,39.595,72.61,7.11,10854,0,Pembangunan Sedang,0.6040207470092614,Sedang
+Jawa Barat,Purwakarta,8.83,67.176,71.195,8.1,11669,0,Pembangunan Sedang,0.6278495326420044,Tinggi
+Jawa Barat,Karawang,8.95,225.064,72.355,7.78,11522,1,Pembangunan Tinggi,0.631126258155849,Tinggi
+Jawa Barat,Bekasi,5.21,317.943,73.81,9.3,11341,1,Pembangunan Tinggi,0.7021387923101734,Tinggi
+Jawa Barat,Bandung Barat,11.3,46.479,72.545,8.2,8546,0,Pembangunan Sedang,0.590120107248549,Sedang
+Jawa Barat,Pangandaran,9.65,11.498,71.615,7.85,9065,0,Pembangunan Sedang,0.5891288674222105,Sedang
+Jawa Barat,Kota Bogor,7.24,45.94,73.835,10.53,11716,1,Pembangunan Tinggi,0.7211549542691532,Tinggi
+Jawa Barat,Kota Sukabumi,8.25,12.402,72.595,9.81,10942,1,Pembangunan Tinggi,0.6754463838960062,Tinggi
+Jawa Barat,Kota Bandung,4.37,283.617,74.435,10.99,16996,1,Pembangunan Tinggi,0.8224629232082549,Tinggi
+Jawa Barat,Kota Cirebon,10.03,23.44,72.46,10.12,11810,1,Pembangunan Tinggi,0.6803067011100951,Tinggi
+Jawa Barat,Kota Bekasi,4.74,96.569,75.185,11.31,15903,1,Pembangunan Tinggi,0.8217354406591026,Tinggi
+Jawa Barat,Kota Depok,2.58,70.391,74.735,11.46,15420,1,Pembangunan Tinggi,0.8277019675845496,Tinggi
+Jawa Barat,Kota Cimahi,5.35,32.211,74.205,11.08,12019,1,Pembangunan Tinggi,0.7531529016056833,Tinggi
+Jawa Barat,Kota Tasikmalaya,13.13,21.589,72.365,9.52,10213,0,Pembangunan Sedang,0.6263232127935805,Sedang
+Jawa Barat,Kota Banjar,7.11,4.461,71.195,8.77,10476,0,Pembangunan Sedang,0.6384982796741638,Tinggi
+Jawa Tengah,Cilacap,11.67,105.036,73.9,7.09,10534,0,Pembangunan Sedang,0.6034698705221478,Sedang
+Jawa Tengah,Banyumas,13.66,53.682,73.82,7.63,11546,0,Pembangunan Sedang,0.6144525425722626,Sedang
+Jawa Tengah,Purbalingga,16.24,25.082,73.195,7.25,10032,0,Pembangunan Sedang,0.5637482273392895,Sedang
+Jawa Tengah,Banjarnegara,16.23,21.694,74.255,6.75,9407,0,Pembangunan Sedang,0.556795178543374,Sedang
+Jawa Tengah,Kebumen,17.83,28.011,73.53,7.55,9028,0,Pembangunan Sedang,0.5513209963086206,Sedang
+Jawa Tengah,Purworejo,12.4,18.637,74.845,8.21,10275,0,Pembangunan Sedang,0.6306188141913069,Tinggi
+Jawa Tengah,Wonosobo,17.67,18.858,71.925,6.82,10760,0,Pembangunan Sedang,0.540245035635605,Rendah
+Jawa Tengah,Magelang,11.91,32.455,73.86,7.79,9440,0,Pembangunan Sedang,0.6030996220702382,Sedang
+Jawa Tengah,Boyolali,10.62,32.672,76.1,7.85,13031,1,Pembangunan Tinggi,0.6826159138997672,Tinggi
+Jawa Tengah,Klaten,13.49,39.95,76.95,8.81,12017,1,Pembangunan Tinggi,0.6821035296327207,Tinggi
+Jawa Tengah,Sukoharjo,8.23,36.912,77.855,9.35,11428,1,Pembangunan Tinggi,0.7300800784931554,Tinggi
+Jawa Tengah,Wonogiri,11.55,29.154,76.285,7.34,9429,0,Pembangunan Sedang,0.6223554040199931,Sedang
+Jawa Tengah,Karanganyar,10.68,37.074,77.62,8.57,11509,1,Pembangunan Tinggi,0.6958007512877574,Tinggi
+Jawa Tengah,Sragen,13.83,37.851,75.82,7.66,12679,1,Pembangunan Tinggi,0.6504900224720808,Tinggi
+Jawa Tengah,Grobogan,12.74,27.265,74.83,7.11,10294,0,Pembangunan Sedang,0.6044249696316037,Sedang
+Jawa Tengah,Blora,12.39,23.987,74.505,6.99,9669,0,Pembangunan Sedang,0.5925627467620562,Sedang
+Jawa Tengah,Rembang,15.8,18.944,74.58,7.3,10519,0,Pembangunan Sedang,0.5891577232749661,Sedang
+Jawa Tengah,Pati,10.21,43.316,76.19,7.48,10506,0,Pembangunan Sedang,0.6464171389780087,Tinggi
+Jawa Tengah,Kudus,7.6,109.16,76.765,8.76,11272,1,Pembangunan Tinggi,0.7070846873449524,Tinggi
+Jawa Tengah,Jepara,7.44,30.169,76.0,7.79,10536,0,Pembangunan Sedang,0.6691034013470217,Tinggi
+Jawa Tengah,Demak,12.92,26.54,75.505,7.86,10248,0,Pembangunan Sedang,0.6266397641542186,Tinggi
+Jawa Tengah,Semarang,7.82,49.034,75.845,8.03,12070,1,Pembangunan Tinggi,0.6894797846102884,Tinggi
+Jawa Tengah,Temanggung,10.17,21.558,75.69,7.25,9408,0,Pembangunan Sedang,0.6222873637538553,Sedang
+Jawa Tengah,Kendal,10.24,42.581,74.49,7.46,11608,0,Pembangunan Sedang,0.6407223780002629,Tinggi
+Jawa Tengah,Batang,9.68,21.619,74.77,6.88,9524,0,Pembangunan Sedang,0.6085264420534267,Sedang
+Jawa Tengah,Pekalongan,10.57,22.803,73.72,7.17,10409,0,Pembangunan Sedang,0.6086529976241986,Sedang
+Jawa Tengah,Pemalang,16.56,25.81,73.555,6.45,8573,0,Pembangunan Sedang,0.5298676524825583,Rendah
+Jawa Tengah,Tegal,8.6,35.32,71.72,6.99,9700,0,Pembangunan Sedang,0.5861085618885743,Sedang
+Jawa Tengah,Brebes,17.43,47.143,69.54,6.22,10152,0,Pembangunan Sedang,0.49447490146578005,Rendah
+Jawa Tengah,Kota Magelang,7.75,8.722,76.965,10.62,12349,1,Pembangunan Tinggi,0.7626294293079127,Tinggi
+Jawa Tengah,Kota Surakarta,9.4,47.645,77.4,10.9,14911,1,Pembangunan Tinggi,0.7952659615873684,Tinggi
+Jawa Tengah,Kota Salatiga,5.14,13.27,77.47,10.66,15843,1,Pembangunan Tinggi,0.829600234257726,Tinggi
+Jawa Tengah,Kota Semarang,4.56,189.256,77.61,10.78,15425,1,Pembangunan Tinggi,0.8322294545355204,Tinggi
+Jawa Tengah,Kota Pekalongan,7.59,10.819,74.4,9.18,12598,1,Pembangunan Tinggi,0.7067037312809287,Tinggi
+Jawa Tengah,Kota Tegal,8.12,15.239,74.56,8.73,13143,1,Pembangunan Tinggi,0.7020923124551052,Tinggi
+DI Yogyakarta,Kulon Progo,18.38,11.655,75.285,9.02,10069,0,Pembangunan Sedang,0.6126120928085103,Sedang
+DI Yogyakarta,Bantul,14.04,26.163,73.84,9.57,15545,1,Pembangunan Tinggi,0.70497136965295,Tinggi
+DI Yogyakarta,Gunung Kidul,17.69,18.974,74.14,7.3,9505,0,Pembangunan Sedang,0.5595055340767913,Sedang
+DI Yogyakarta,Sleman,8.64,45.833,74.905,10.92,16060,1,Pembangunan Tinggi,0.7872264991457496,Tinggi
+DI Yogyakarta,Kota Yogyakarta,7.69,35.768,74.66,11.72,18801,1,Pembangunan Tinggi,0.8424911999499167,Tinggi
+Jawa Timur,Pacitan,15.11,15.785,72.03,7.61,8887,0,Pembangunan Sedang,0.5514991670909585,Sedang
+Jawa Timur,Ponorogo,10.26,20.513,72.795,7.55,9851,0,Pembangunan Sedang,0.6016615818458777,Sedang
+Jawa Timur,Trenggalek,12.14,18.314,73.8,7.56,9743,0,Pembangunan Sedang,0.5997334609370054,Sedang
+Jawa Timur,Tulungagung,7.51,38.226,74.115,8.34,10807,0,Pembangunan Sedang,0.6631527687513096,Tinggi
+Jawa Timur,Blitar,9.65,36.024,73.56,7.5,10757,0,Pembangunan Sedang,0.624329155169237,Sedang
+Jawa Timur,Kediri,11.64,40.627,72.585,8.08,11127,0,Pembangunan Sedang,0.6181767068612611,Sedang
+Jawa Timur,Malang,10.5,102.028,72.55,7.43,10163,0,Pembangunan Sedang,0.5986980119595696,Sedang
+Jawa Timur,Lumajang,10.05,32.062,70.17,6.67,9203,0,Pembangunan Sedang,0.5463948861341549,Rendah
+Jawa Timur,Jember,10.41,76.04,69.225,6.49,9410,0,Pembangunan Sedang,0.5322516655653529,Rendah
+Jawa Timur,Banyuwangi,8.07,81.103,70.67,7.42,12217,0,Pembangunan Sedang,0.6188304370190956,Sedang
+Jawa Timur,Bondowoso,14.73,19.936,66.83,5.94,10690,0,Pembangunan Sedang,0.4821477720541326,Rendah
+Jawa Timur,Situbondo,12.63,20.042,69.185,6.62,9996,0,Pembangunan Sedang,0.5278833477786894,Rendah
+Jawa Timur,Probolinggo,18.91,33.721,67.325,6.12,10969,0,Pembangunan Sedang,0.4684943931813832,Rendah
+Jawa Timur,Pasuruan,9.7,145.592,70.195,7.41,10297,0,Pembangunan Sedang,0.5788497293822314,Sedang
+Jawa Timur,Sidoarjo,5.93,197.241,73.99,10.72,14578,1,Pembangunan Tinggi,0.7713120223443487,Tinggi
+Jawa Timur,Mojokerto,10.62,81.941,72.535,8.64,12844,1,Pembangunan Tinggi,0.6579399250493939,Tinggi
+Jawa Timur,Jombang,10.0,39.871,72.435,8.55,11394,0,Pembangunan Sedang,0.6405970443398982,Tinggi
+Jawa Timur,Nganjuk,11.85,26.601,71.55,7.78,12172,0,Pembangunan Sedang,0.6118795246230935,Sedang
+Jawa Timur,Madiun,11.91,18.917,71.455,7.82,11658,0,Pembangunan Sedang,0.6048644204188796,Sedang
+Jawa Timur,Magetan,10.66,18.772,72.595,8.36,11833,0,Pembangunan Sedang,0.6395241339038501,Tinggi
+Jawa Timur,Ngawi,15.57,20.271,72.355,7.26,11459,0,Pembangunan Sedang,0.5768083621594751,Sedang
+Jawa Timur,Bojonegoro,13.27,70.259,71.675,7.38,10221,0,Pembangunan Sedang,0.5709721407261826,Sedang
+Jawa Timur,Tuban,16.31,62.323,71.515,7.18,10380,0,Pembangunan Sedang,0.5474590708349785,Sedang
+Jawa Timur,Lamongan,13.86,39.17,72.435,8.04,11510,0,Pembangunan Sedang,0.6063118343463212,Sedang
+Jawa Timur,Gresik,12.42,134.269,72.62,9.56,13280,1,Pembangunan Tinggi,0.6730606300632538,Tinggi
+Jawa Timur,Bangkalan,21.57,23.29,70.165,5.96,8673,0,Pembangunan Sedang,0.45080872972899133,Rendah
+Jawa Timur,Sampang,23.76,19.843,68.025,4.86,8790,2,Pembangunan Rendah,0.3904439967188865,Rendah
+Jawa Timur,Pamekasan,15.3,16.794,67.625,6.7,8804,0,Pembangunan Sedang,0.48033206896532465,Rendah
+Jawa Timur,Sumenep,20.51,32.75,71.505,5.92,9000,0,Pembangunan Sedang,0.47568312730513906,Rendah
+Jawa Timur,Kota Kediri,7.75,132.406,73.995,10.15,12359,1,Pembangunan Tinggi,0.7194349828377922,Tinggi
+Jawa Timur,Kota Blitar,7.89,6.708,73.8,10.35,13816,1,Pembangunan Tinggi,0.7390509421653462,Tinggi
+Jawa Timur,Kota Malang,4.62,72.163,73.31,10.41,16663,1,Pembangunan Tinggi,0.7914743970990222,Tinggi
+Jawa Timur,Kota Probolinggo,7.44,11.075,70.285,8.95,12245,0,Pembangunan Sedang,0.6524342516683453,Tinggi
+Jawa Timur,Kota Pasuruan,6.88,8.047,71.54,9.33,13354,1,Pembangunan Tinggi,0.6922019477594066,Tinggi
+Jawa Timur,Kota Mojokerto,6.39,6.588,73.33,10.47,13610,1,Pembangunan Tinggi,0.7434149718119005,Tinggi
+Jawa Timur,Kota Madiun,5.09,13.769,72.79,11.37,16095,1,Pembangunan Tinggi,0.7966042231841627,Tinggi
+Jawa Timur,Kota Surabaya,5.23,554.509,74.12,10.5,17862,1,Pembangunan Tinggi,0.8136237090759133,Tinggi
+Jawa Timur,Kota Batu,4.09,15.917,72.6,9.31,12887,1,Pembangunan Tinggi,0.7154432003285555,Tinggi
+Banten,Pandeglang,10.72,28.493,64.75,7.11,8635,0,Pembangunan Sedang,0.48437752038025683,Rendah
+Banten,Lebak,10.29,29.077,67.285,6.41,8724,0,Pembangunan Sedang,0.5010797323826679,Rendah
+Banten,Tangerang,7.12,136.005,69.885,8.61,12273,1,Pembangunan Tinggi,0.6429254433589435,Tinggi
+Banten,Serang,5.49,76.601,64.715,7.51,10713,0,Pembangunan Sedang,0.5521290689284637,Sedang
+Banten,Kota Tangerang,5.93,143.84,71.55,10.83,14575,1,Pembangunan Tinggi,0.7465553258931299,Tinggi
+Banten,Kota Cilegon,4.24,103.182,66.645,10.08,13041,1,Pembangunan Tinggi,0.6670823818829088,Tinggi
+Banten,Kota Serang,6.79,31.58,67.985,8.89,13281,0,Pembangunan Sedang,0.6426912086229798,Tinggi
+Banten,Kota Tangerang Selatan,2.57,82.551,72.43,11.82,15751,1,Pembangunan Tinggi,0.8141810197900112,Tinggi
+Bali,Jembrana,5.06,13.465,72.4,8.35,11675,0,Pembangunan Sedang,0.6707947352383321,Tinggi
+Bali,Tabanan,5.12,22.331,73.685,9.14,14326,1,Pembangunan Tinggi,0.7352934912735387,Tinggi
+Bali,Badung,2.62,49.215,75.06,10.62,17327,1,Pembangunan Tinggi,0.8365988457824395,Tinggi
+Bali,Gianyar,4.85,25.915,73.715,9.29,14391,1,Pembangunan Tinggi,0.7414481602586567,Tinggi
+Bali,Klungkung,5.64,8.468,71.355,8.14,11287,0,Pembangunan Sedang,0.6460117708891973,Tinggi
+Bali,Bangli,5.09,6.722,70.57,7.18,11201,0,Pembangunan Sedang,0.6186703076906397,Sedang
+Bali,Karang Asem,6.78,16.453,70.5,6.33,10175,0,Pembangunan Sedang,0.5756302076567005,Sedang
+Bali,Buleleng,6.12,33.359,71.895,7.25,13362,0,Pembangunan Sedang,0.655512474898072,Tinggi
+Bali,Kota Denpasar,2.96,49.583,74.88,11.48,19598,1,Pembangunan Tinggi,0.879789637520423,Tinggi
+Nusa Tenggara Barat,Lombok Barat,14.47,14.563,67.17,6.42,11334,0,Pembangunan Sedang,0.5061855229897274,Rendah
+Nusa Tenggara Barat,Lombok Tengah,13.44,16.67,66.355,6.29,9962,0,Pembangunan Sedang,0.4836052532448169,Rendah
+Nusa Tenggara Barat,Lombok Timur,15.38,20.026,66.125,6.71,9450,0,Pembangunan Sedang,0.4714749118759755,Rendah
+Nusa Tenggara Barat,Sumbawa,13.91,14.458,67.695,8.15,9167,0,Pembangunan Sedang,0.5262850370483582,Rendah
+Nusa Tenggara Barat,Dompu,12.6,7.064,66.965,8.72,8899,0,Pembangunan Sedang,0.5356303308522481,Rendah
+Nusa Tenggara Barat,Bima,14.88,11.418,66.48,7.91,8495,0,Pembangunan Sedang,0.4929067373112195,Rendah
+Nusa Tenggara Barat,Sumbawa Barat,13.54,22.761,68.275,8.72,11548,0,Pembangunan Sedang,0.577471747085041,Sedang
+Nusa Tenggara Barat,Lombok Utara,27.04,4.549,67.33,6.04,9057,2,Pembangunan Rendah,0.3910476226508065,Rendah
+Nusa Tenggara Barat,Kota Mataram,8.65,18.682,71.86,9.54,14999,1,Pembangunan Tinggi,0.7097492021607523,Tinggi
+Nusa Tenggara Barat,Kota Bima,8.88,4.134,70.485,10.65,11135,1,Pembangunan Tinggi,0.6688046951486831,Tinggi
+Nusa Tenggara Timur,Sumba Barat,28.39,2.352,67.095,6.84,7307,2,Pembangunan Rendah,0.3753994191927335,Rendah
+Nusa Tenggara Timur,Sumba Timur,29.68,6.257,65.135,7.32,9354,2,Pembangunan Rendah,0.3816145009135549,Rendah
+Nusa Tenggara Timur,Kupang,22.98,7.764,64.845,7.39,7476,2,Pembangunan Rendah,0.3989876911483328,Rendah
+Nusa Tenggara Timur,Timor Tengah Selatan,26.64,7.946,66.45,6.74,6839,2,Pembangunan Rendah,0.37129904103790223,Rendah
+Nusa Tenggara Timur,Timor Tengah Utara,22.62,4.087,67.025,7.96,6324,2,Pembangunan Rendah,0.42354271933540555,Rendah
+Nusa Tenggara Timur,Belu,15.68,4.552,64.855,7.36,7431,0,Pembangunan Sedang,0.444337875765147,Rendah
+Nusa Tenggara Timur,Alor,21.09,3.052,61.6,8.42,6751,2,Pembangunan Rendah,0.38840247657289695,Rendah
+Nusa Tenggara Timur,Lembata,26.21,1.855,67.15,8.23,7257,2,Pembangunan Rendah,0.4197136618255182,Rendah
+Nusa Tenggara Timur,Flores Timur,11.14,5.319,65.29,7.72,7578,0,Pembangunan Sedang,0.48780298392156307,Rendah
+Nusa Tenggara Timur,Sikka,13.35,5.115,67.415,6.95,8021,0,Pembangunan Sedang,0.48605497102880285,Rendah
+Nusa Tenggara Timur,Ende,24.13,6.076,65.4,8.03,9027,2,Pembangunan Rendah,0.4313351942625601,Rendah
+Nusa Tenggara Timur,Ngada,12.58,3.494,68.045,8.53,8819,0,Pembangunan Sedang,0.5425981930867301,Rendah
+Nusa Tenggara Timur,Manggarai,20.48,4.653,67.05,7.61,7133,2,Pembangunan Rendah,0.4399293253414862,Rendah
+Nusa Tenggara Timur,Rote Ndao,28.08,3.172,64.835,7.71,6503,2,Pembangunan Rendah,0.3612123811191197,Rendah
+Nusa Tenggara Timur,Manggarai Barat,17.92,3.519,67.39,7.56,7410,0,Pembangunan Sedang,0.4623851744339368,Rendah
+Nusa Tenggara Timur,Sumba Tengah,34.27,1.196,68.38,6.47,6061,2,Pembangunan Rendah,0.3285123399686597,Rendah
+Nusa Tenggara Timur,Sumba Barat Daya,28.18,3.769,68.54,6.35,6355,2,Pembangunan Rendah,0.37011345591617417,Rendah
+Nusa Tenggara Timur,Nagekeo,12.91,2.274,67.18,7.9,8254,0,Pembangunan Sedang,0.5099829714789095,Rendah
+Nusa Tenggara Timur,Manggarai Timur,26.5,3.292,68.055,7.35,5780,2,Pembangunan Rendah,0.39010477636421015,Rendah
+Nusa Tenggara Timur,Sabu Raijua,30.13,1.428,60.635,6.66,5256,2,Pembangunan Rendah,0.2628047071676072,Rendah
+Nusa Tenggara Timur,Malaka,16.33,2.833,64.96,7.1,5861,2,Pembangunan Rendah,0.41595986650205,Rendah
+Nusa Tenggara Timur,Kota Kupang,9.17,23.912,69.68,11.6,13218,1,Pembangunan Tinggi,0.7049762065588953,Tinggi
+Kalimantan Barat,Sambas,7.66,20.675,68.975,6.72,9828,0,Pembangunan Sedang,0.5572621112167513,Sedang
+Kalimantan Barat,Bengkayang,6.48,8.674,73.82,6.8,9193,0,Pembangunan Sedang,0.6124218097097287,Sedang
+Kalimantan Barat,Landak,10.99,10.746,72.965,7.12,7431,0,Pembangunan Sedang,0.5591003522245988,Sedang
+Kalimantan Barat,Pontianak,5.18,8.546,71.095,7.04,7758,0,Pembangunan Sedang,0.5776395353656675,Sedang
+Kalimantan Barat,Sanggau,4.55,19.951,71.38,7.39,8328,0,Pembangunan Sedang,0.5996431888922712,Sedang
+Kalimantan Barat,Ketapang,10.13,28.13,71.05,7.46,9209,0,Pembangunan Sedang,0.5730547310068217,Sedang
+Kalimantan Barat,Sintang,9.28,14.714,71.8,7.08,8708,0,Pembangunan Sedang,0.5721872948260477,Sedang
+Kalimantan Barat,Kapuas Hulu,8.93,10.288,72.485,7.53,7168,0,Pembangunan Sedang,0.5725557779402215,Sedang
+Kalimantan Barat,Sekadau,6.26,6.569,71.965,6.85,7462,0,Pembangunan Sedang,0.5725595568405799,Sedang
+Kalimantan Barat,Melawi,12.01,5.234,72.925,6.91,8415,0,Pembangunan Sedang,0.5599168901122353,Sedang
+Kalimantan Barat,Kayong Utara,9.33,4.209,68.31,6.02,7920,0,Pembangunan Sedang,0.4999466472890237,Rendah
+Kalimantan Barat,Kubu Raya,4.34,28.932,70.62,7.0,8630,0,Pembangunan Sedang,0.587776216668655,Sedang
+Kalimantan Barat,Kota Pontianak,4.58,37.685,73.03,10.43,14610,1,Pembangunan Tinggi,0.7632780910878819,Tinggi
+Kalimantan Barat,Kota Singkawang,4.83,10.141,72.175,7.9,11767,0,Pembangunan Sedang,0.6610522269796658,Tinggi
+Kalimantan Tengah,Kotawaringin Barat,3.95,20.524,70.625,8.53,13117,1,Pembangunan Tinggi,0.6801725894059139,Tinggi
+Kalimantan Tengah,Kotawaringin Timur,5.91,26.957,69.835,8.15,11866,0,Pembangunan Sedang,0.6348817752425454,Tinggi
+Kalimantan Tengah,Kapuas,5.35,16.543,68.73,7.6,11148,0,Pembangunan Sedang,0.6050944644784177,Sedang
+Kalimantan Tengah,Barito Selatan,4.62,6.277,67.125,8.95,11492,0,Pembangunan Sedang,0.6257936846762566,Sedang
+Kalimantan Tengah,Barito Utara,5.61,9.392,71.25,8.85,9951,0,Pembangunan Sedang,0.6438179874087827,Tinggi
+Kalimantan Tengah,Sukamara,3.66,4.422,71.505,8.09,8773,0,Pembangunan Sedang,0.6276219710887276,Tinggi
+Kalimantan Tengah,Lamandau,3.56,5.774,69.315,8.43,11234,0,Pembangunan Sedang,0.6422569197261239,Tinggi
+Kalimantan Tengah,Seruyan,7.22,8.768,69.32,7.96,9420,0,Pembangunan Sedang,0.585945019838634,Sedang
+Kalimantan Tengah,Katingan,5.25,8.307,65.8,8.68,10568,0,Pembangunan Sedang,0.5895350590831753,Sedang
+Kalimantan Tengah,Pulang Pisau,4.24,5.589,68.05,8.19,10082,0,Pembangunan Sedang,0.6041419001568746,Sedang
+Kalimantan Tengah,Gunung Mas,5.35,6.27,70.375,9.18,10809,0,Pembangunan Sedang,0.6537469636473455,Tinggi
+Kalimantan Tengah,Barito Timur,6.38,7.103,68.245,9.23,11322,0,Pembangunan Sedang,0.6310453796269866,Tinggi
+Kalimantan Tengah,Murung Raya,6.15,7.762,69.47,7.61,10449,0,Pembangunan Sedang,0.5996735132861216,Sedang
+Kalimantan Tengah,Kota Palangka Raya,3.75,18.285,73.175,11.53,14070,1,Pembangunan Tinggi,0.7874946974960655,Tinggi
+Kalimantan Selatan,Tanah Laut,4.57,13.784,69.57,7.89,11310,0,Pembangunan Sedang,0.6277864073867674,Tinggi
+Kalimantan Selatan,Kota Baru,4.86,23.97,69.3,7.46,11720,0,Pembangunan Sedang,0.6186647726617284,Sedang
+Kalimantan Selatan,Banjar,3.04,16.534,67.385,7.52,12707,0,Pembangunan Sedang,0.6226629644842201,Sedang
+Kalimantan Selatan,Barito Kuala,5.11,8.713,66.24,7.55,9868,0,Pembangunan Sedang,0.5617705946055557,Sedang
+Kalimantan Selatan,Tapin,3.6,8.396,70.545,7.77,11952,0,Pembangunan Sedang,0.6502317864976321,Tinggi
+Kalimantan Selatan,Hulu Sungai Selatan,4.84,6.565,66.1,7.76,12736,0,Pembangunan Sedang,0.6025420972102455,Sedang
+Kalimantan Selatan,Hulu Sungai Tengah,6.18,7.054,66.185,8.01,12280,0,Pembangunan Sedang,0.5947111188095416,Sedang
+Kalimantan Selatan,Hulu Sungai Utara,6.83,4.966,64.08,7.75,9644,0,Pembangunan Sedang,0.5283772835875648,Rendah
+Kalimantan Selatan,Tabalong,6.27,17.757,70.555,9.11,11470,0,Pembangunan Sedang,0.6566581740591395,Tinggi
+Kalimantan Selatan,Tanah Bumbu,4.82,19.892,70.445,7.97,11844,0,Pembangunan Sedang,0.6443813230625411,Tinggi
+Kalimantan Selatan,Balangan,6.07,10.723,67.82,7.69,11500,0,Pembangunan Sedang,0.596785523391098,Sedang
+Kalimantan Selatan,Kota Banjarmasin,4.89,32.723,71.3,10.2,14432,1,Pembangunan Tinggi,0.7347957588904257,Tinggi
+Kalimantan Selatan,Kota Banjar Baru,4.4,9.564,72.075,10.96,13789,1,Pembangunan Tinggi,0.7551102883130257,Tinggi
+Kalimantan Timur,Paser,9.73,43.337,72.85,8.79,10673,0,Pembangunan Sedang,0.6431358782304593,Tinggi
+Kalimantan Timur,Kutai Barat,10.24,27.26,73.04,8.7,10062,0,Pembangunan Sedang,0.6323592630662208,Tinggi
+Kalimantan Timur,Kutai Kartanegara,7.99,149.058,72.585,9.23,11048,1,Pembangunan Tinggi,0.6656126898325252,Tinggi
+Kalimantan Timur,Kutai Timur,9.81,115.796,73.41,9.43,10868,1,Pembangunan Tinggi,0.6653241458261322,Tinggi
+Kalimantan Timur,Berau,5.88,35.469,72.235,9.53,12435,1,Pembangunan Tinggi,0.699137736247954,Tinggi
+Kalimantan Timur,Penajam Paser Utara,7.61,9.052,72.05,8.36,11651,0,Pembangunan Sedang,0.6505913988397392,Tinggi
+Kalimantan Timur,Mahakam Hulu,11.9,2.77,72.24,8.18,7802,0,Pembangunan Sedang,0.5731309073839813,Sedang
+Kalimantan Timur,Kota Balikpapan,2.89,103.6,74.705,10.91,14862,1,Pembangunan Tinggi,0.8063387393883639,Tinggi
+Kalimantan Timur,Kota Samarinda,4.99,66.542,74.425,10.49,14582,1,Pembangunan Tinggi,0.7771420503242833,Tinggi
+Kalimantan Timur,Kota Bontang,4.62,56.555,74.45,10.8,16765,1,Pembangunan Tinggi,0.8139752844823576,Tinggi
+Kalimantan Utara,Malinau,7.3,11.198,71.49,9.4,9928,0,Pembangunan Sedang,0.6474923850719507,Tinggi
+Kalimantan Utara,Bulungan,10.03,18.719,72.67,9.19,9423,0,Pembangunan Sedang,0.6322953634284002,Tinggi
+Kalimantan Utara,Tana Tidung,5.15,5.751,71.155,8.8,7676,0,Pembangunan Sedang,0.6160307180346525,Sedang
+Kalimantan Utara,Nunukan,6.79,26.299,71.42,8.17,7064,0,Pembangunan Sedang,0.5870517551377151,Sedang
+Kalimantan Utara,Kota Tarakan,6.71,38.111,74.0,9.98,11261,1,Pembangunan Tinggi,0.7085992603630691,Tinggi
+Sulawesi Utara,Bolaang Mongondow,7.58,8.39,69.39,8.03,10220,0,Pembangunan Sedang,0.5960100109052074,Sedang
+Sulawesi Utara,Minahasa,7.67,17.427,71.095,9.73,12481,1,Pembangunan Tinggi,0.6800297154397469,Tinggi
+Sulawesi Utara,Kepulauan Sangihe,11.02,4.39,70.11,8.34,11524,0,Pembangunan Sedang,0.6052855785398836,Sedang
+Sulawesi Utara,Kepulauan Talaud,9.0,2.267,70.17,9.72,8558,0,Pembangunan Sedang,0.6118068890130626,Sedang
+Sulawesi Utara,Minahasa Selatan,9.37,8.78,69.935,9.09,11554,0,Pembangunan Sedang,0.6306509752708804,Tinggi
+Sulawesi Utara,Minahasa Utara,7.11,14.21,71.355,10.0,11481,1,Pembangunan Tinggi,0.6798453065338403,Tinggi
+Sulawesi Utara,Bolaang Mongondow Utara,8.03,2.574,67.68,8.41,9143,0,Pembangunan Sedang,0.5689373158478709,Sedang
+Sulawesi Utara,Siau Tagulandang Biaro,8.94,2.447,70.815,9.03,8145,0,Pembangunan Sedang,0.5990565777186422,Sedang
+Sulawesi Utara,Minahasa Tenggara,12.47,5.214,70.135,9.11,10479,0,Pembangunan Sedang,0.6000858631916408,Sedang
+Sulawesi Utara,Bolaang Mongondow Selatan,12.85,2.153,64.51,8.15,8939,0,Pembangunan Sedang,0.49475638025335567,Rendah
+Sulawesi Utara,Bolaang Mongondow Timur,6.1,3.081,67.85,7.93,9115,0,Pembangunan Sedang,0.5722424326464313,Sedang
+Sulawesi Utara,Kota Manado,6.19,36.631,71.84,11.42,13991,1,Pembangunan Tinggi,0.7537199063855378,Tinggi
+Sulawesi Utara,Kota Bitung,6.43,17.085,71.04,9.89,12271,1,Pembangunan Tinggi,0.6881793493885533,Tinggi
+Sulawesi Utara,Kota Tomohon,5.69,4.371,71.985,10.74,11851,1,Pembangunan Tinggi,0.716746941959341,Tinggi
+Sulawesi Utara,Kota Kotamobagu,5.74,3.791,70.535,10.31,10848,1,Pembangunan Tinggi,0.6782923860025409,Tinggi
+Sulawesi Tengah,Banggai Kepulauan,13.72,3.821,66.545,8.44,7453,0,Pembangunan Sedang,0.4995423906230524,Rendah
+Sulawesi Tengah,Banggai,7.83,27.447,70.83,8.53,9603,0,Pembangunan Sedang,0.6136382615506577,Sedang
+Sulawesi Tengah,Morowali,13.75,61.986,69.115,9.34,11028,0,Pembangunan Sedang,0.5925305972848306,Sedang
+Sulawesi Tengah,Poso,15.92,9.22,71.155,9.5,8850,0,Pembangunan Sedang,0.5775616626989157,Sedang
+Sulawesi Tengah,Donggala,16.73,11.72,67.455,7.98,8002,0,Pembangunan Sedang,0.4873168652642901,Rendah
+Sulawesi Tengah,Toli-Toli,13.51,8.327,66.155,8.76,7947,0,Pembangunan Sedang,0.5097564081092227,Rendah
+Sulawesi Tengah,Buol,14.06,5.644,69.01,9.08,7974,0,Pembangunan Sedang,0.5453496685001322,Rendah
+Sulawesi Tengah,Parigi Moutong,15.28,17.183,64.215,7.74,9675,0,Pembangunan Sedang,0.47626784084433693,Rendah
+Sulawesi Tengah,Tojo Una-Una,16.6,5.587,65.855,8.4,7621,0,Pembangunan Sedang,0.4747735271817598,Rendah
+Sulawesi Tengah,Sigi,13.05,8.986,70.01,8.82,8171,0,Pembangunan Sedang,0.5596730253537173,Sedang
+Sulawesi Tengah,Banggai Laut,14.17,2.332,65.62,8.63,7707,0,Pembangunan Sedang,0.4937457501081831,Rendah
+Sulawesi Tengah,Morowali Utara,13.9,11.204,69.595,8.72,8890,0,Pembangunan Sedang,0.5564851196110805,Sedang
+Sulawesi Tengah,Kota Palu,7.17,24.176,71.0,11.72,14894,1,Pembangunan Tinggi,0.756053641714874,Tinggi
+Sulawesi Selatan,Kepulauan Selayar,12.45,6.393,68.46,8.08,9060,0,Pembangunan Sedang,0.5412058148480617,Rendah
+Sulawesi Selatan,Bulukumba,7.43,14.565,68.055,7.82,10632,0,Pembangunan Sedang,0.5826929995544851,Sedang
+Sulawesi Selatan,Bantaeng,9.41,8.97,70.49,6.77,11829,0,Pembangunan Sedang,0.589187262170774,Sedang
+Sulawesi Selatan,Jeneponto,14.28,10.289,66.445,6.6,9215,0,Pembangunan Sedang,0.47667320907121163,Rendah
+Sulawesi Selatan,Takalar,8.25,10.22,67.26,7.49,10543,0,Pembangunan Sedang,0.5602869162718804,Sedang
+Sulawesi Selatan,Gowa,7.54,21.532,70.38,8.2,9504,0,Pembangunan Sedang,0.6020071803822074,Sedang
+Sulawesi Selatan,Sinjai,8.84,11.325,67.33,7.78,9505,0,Pembangunan Sedang,0.550631854330725,Sedang
+Sulawesi Selatan,Maros,9.57,18.621,69.01,8.01,11032,0,Pembangunan Sedang,0.5888761386530891,Sedang
+Sulawesi Selatan,Pangkajene Dan Kepulauan,14.28,25.663,66.725,7.92,11519,0,Pembangunan Sedang,0.5376356739193283,Rendah
+Sulawesi Selatan,Barru,8.68,7.432,69.03,8.24,11017,0,Pembangunan Sedang,0.5996140798498995,Sedang
+Sulawesi Selatan,Bone,10.52,36.561,67.15,7.23,9030,0,Pembangunan Sedang,0.5199234826884627,Rendah
+Sulawesi Selatan,Soppeng,7.53,11.382,69.805,7.82,9558,0,Pembangunan Sedang,0.588029628341171,Sedang
+Sulawesi Selatan,Wajo,6.46,19.773,67.41,7.05,12505,0,Pembangunan Sedang,0.5883399818023256,Sedang
+Sulawesi Selatan,Sidenreng Rappang,5.04,14.073,69.97,7.94,12201,0,Pembangunan Sedang,0.6415247243868462,Tinggi
+Sulawesi Selatan,Pinrang,8.81,20.083,69.72,7.87,11956,0,Pembangunan Sedang,0.6101409174531717,Sedang
+Sulawesi Selatan,Enrekang,12.47,7.529,70.87,8.91,10973,0,Pembangunan Sedang,0.6100781470646008,Sedang
+Sulawesi Selatan,Luwu,12.53,16.031,70.38,8.35,10116,0,Pembangunan Sedang,0.5812184148811985,Sedang
+Sulawesi Selatan,Tana Toraja,12.27,7.571,73.35,8.51,7434,0,Pembangunan Sedang,0.585727750553178,Sedang
+Sulawesi Selatan,Luwu Utara,13.59,13.237,68.61,7.86,11736,0,Pembangunan Sedang,0.564395489965216,Sedang
+Sulawesi Selatan,Luwu Timur,6.94,21.53,70.585,8.81,12886,1,Pembangunan Tinggi,0.6639325159104105,Tinggi
+Sulawesi Selatan,Toraja Utara,11.99,9.721,73.345,8.25,8134,0,Pembangunan Sedang,0.5905461482471076,Sedang
+Sulawesi Selatan,Kota Makassar,4.82,178.333,72.08,11.43,17097,1,Pembangunan Tinggi,0.8043234931390031,Tinggi
+Sulawesi Selatan,Kota Parepare,5.4,7.324,71.255,10.65,13786,1,Pembangunan Tinggi,0.7327985837612875,Tinggi
+Sulawesi Selatan,Kota Palopo,8.14,8.025,70.865,10.94,13117,1,Pembangunan Tinggi,0.7089780771671694,Tinggi
+Sulawesi Tenggara,Buton,13.92,3.782,68.38,7.92,7324,0,Pembangunan Sedang,0.5056588279317167,Rendah
+Sulawesi Tenggara,Muna,13.54,2.463,70.37,8.46,8218,0,Pembangunan Sedang,0.5532593370819641,Sedang
+Sulawesi Tenggara,Konawe,13.03,2.925,70.295,9.21,10151,0,Pembangunan Sedang,0.5963736129055749,Sedang
+Sulawesi Tenggara,Kolaka,12.43,6.988,71.205,8.99,12525,0,Pembangunan Sedang,0.6352960205309424,Tinggi
+Sulawesi Tenggara,Konawe Selatan,11.34,2.618,70.855,8.11,9059,0,Pembangunan Sedang,0.5755441053849955,Sedang
+Sulawesi Tenggara,Bombana,10.76,10.304,69.065,8.04,8310,0,Pembangunan Sedang,0.5483957750296091,Sedang
+Sulawesi Tenggara,Wakatobi,14.91,25.551,70.47,8.16,9280,0,Pembangunan Sedang,0.5524122260461475,Sedang
+Sulawesi Tenggara,Kolaka Utara,13.79,11.828,70.375,8.22,10244,0,Pembangunan Sedang,0.571902166492706,Sedang
+Sulawesi Tenggara,Buton Utara,14.89,6.566,70.925,8.93,7496,0,Pembangunan Sedang,0.5520710574710218,Sedang
+Sulawesi Tenggara,Konawe Utara,14.32,4.429,69.48,9.3,9181,0,Pembangunan Sedang,0.5688950998017446,Sedang
+Sulawesi Tenggara,Kolaka Timur,14.35,8.831,72.82,7.84,7753,0,Pembangunan Sedang,0.5559216612819001,Sedang
+Sulawesi Tenggara,Konawe Kepulauan,17.81,3.211,68.43,9.42,6738,0,Pembangunan Sedang,0.5069651421255154,Rendah
+Sulawesi Tenggara,Muna Barat,13.96,3.966,70.31,7.3,7502,0,Pembangunan Sedang,0.5155132540570586,Rendah
+Sulawesi Tenggara,Buton Tengah,15.8,4.496,67.615,7.31,7244,0,Pembangunan Sedang,0.4708178923701729,Rendah
+Sulawesi Tenggara,Buton Selatan,14.62,1.399,67.635,7.54,7279,0,Pembangunan Sedang,0.4840293187347152,Rendah
+Sulawesi Tenggara,Kota Kendari,4.87,22.046,73.835,12.51,14356,1,Pembangunan Tinggi,0.8127678055633353,Tinggi
+Sulawesi Tenggara,Kota Baubau,7.78,9.076,71.245,10.91,10503,1,Pembangunan Tinggi,0.6820176349188583,Tinggi
+Gorontalo,Boalemo,19.0,5.491,69.275,7.0,8940,0,Pembangunan Sedang,0.483409447314657,Rendah
+Gorontalo,Gorontalo,17.89,13.047,67.555,7.3,9412,0,Pembangunan Sedang,0.4838495070630457,Rendah
+Gorontalo,Pohuwato,18.08,6.737,64.26,7.26,10409,0,Pembangunan Sedang,0.4576458586106131,Rendah
+Gorontalo,Bone Bolango,16.3,4.649,68.42,8.32,10198,0,Pembangunan Sedang,0.5358039215038156,Rendah
+Gorontalo,Gorontalo Utara,17.23,3.429,65.905,7.15,9064,0,Pembangunan Sedang,0.462048739053778,Rendah
+Gorontalo,Kota Gorontalo,5.93,8.537,72.52,10.37,12390,1,Pembangunan Tinggi,0.719828209365504,Tinggi
+Sulawesi Barat,Majene,14.34,4.994,61.7,8.91,10028,0,Pembangunan Sedang,0.4843548510740468,Rendah
+Sulawesi Barat,Polewali Mandar,15.68,13.271,62.47,7.44,8548,2,Pembangunan Rendah,0.4335972522000987,Rendah
+Sulawesi Barat,Mamasa,13.77,2.983,70.875,7.88,7736,0,Pembangunan Sedang,0.5386505642376753,Rendah
+Sulawesi Barat,Mamuju,7.46,11.624,67.705,7.96,9494,0,Pembangunan Sedang,0.5673901975293907,Sedang
+Sulawesi Barat,Mamuju Utara,4.77,10.014,66.38,8.09,11072,0,Pembangunan Sedang,0.5924393782214684,Sedang
+Sulawesi Barat,Mamuju Tengah,7.13,3.186,68.49,7.51,8408,0,Pembangunan Sedang,0.5547237778413445,Sedang
+Maluku,Maluku Tenggara Barat,27.27,2.713,63.395,9.69,6335,2,Pembangunan Rendah,0.39163071918733094,Rendah
+Maluku,Maluku Tenggara,22.73,3.26,65.08,9.76,7580,2,Pembangunan Rendah,0.45642556318668964,Rendah
+Maluku,Maluku Tengah,19.84,8.725,66.38,9.68,10243,0,Pembangunan Sedang,0.5209549921216632,Rendah
+Maluku,Buru,17.28,2.427,66.365,8.79,10347,0,Pembangunan Sedang,0.518886800359299,Rendah
+Maluku,Kepulauan Aru,26.53,3.504,62.89,8.83,7623,2,Pembangunan Rendah,0.3880536738108112,Rendah
+Maluku,Seram Bagian Barat,25.27,3.03,61.79,8.92,8720,2,Pembangunan Rendah,0.39958770234674745,Rendah
+Maluku,Seram Bagian Timur,23.25,2.914,59.56,8.46,9480,2,Pembangunan Rendah,0.3871129170651608,Rendah
+Maluku,Maluku Barat Daya,29.55,1.671,62.51,8.59,6918,2,Pembangunan Rendah,0.3504976657993904,Rendah
+Maluku,Buru Selatan,15.89,1.419,66.315,7.95,7600,0,Pembangunan Sedang,0.4742834548430978,Rendah
+Maluku,Kota Ambon,5.02,14.707,70.58,12.2,14148,1,Pembangunan Tinggi,0.76621854935745,Tinggi
+Maluku,Kota Tual,23.26,2.491,65.63,10.53,7405,2,Pembangunan Rendah,0.4738415312741374,Rendah
+Maluku Utara,Halmahera Barat,8.95,2.286,66.295,8.37,7467,0,Pembangunan Sedang,0.5257637521331782,Rendah
+Maluku Utara,Halmahera Tengah,13.52,3.164,64.12,9.01,7966,0,Pembangunan Sedang,0.4927827680482629,Rendah
+Maluku Utara,Kepulauan Sula,8.23,2.516,63.34,9.0,7040,0,Pembangunan Sedang,0.5059335922245957,Rendah
+Maluku Utara,Halmahera Selatan,5.19,8.699,65.88,8.1,7142,0,Pembangunan Sedang,0.5350840011859821,Rendah
+Maluku Utara,Halmahera Utara,5.22,5.726,69.57,8.62,7519,0,Pembangunan Sedang,0.5920472569883528,Sedang
+Maluku Utara,Halmahera Timur,15.04,3.566,69.055,8.27,7973,0,Pembangunan Sedang,0.5218525861035234,Rendah
+Maluku Utara,Pulau Morotai,6.52,1.589,67.29,7.4,6378,0,Pembangunan Sedang,0.5173666226296075,Rendah
+Maluku Utara,Pulau Taliabu,7.49,1.491,62.175,7.67,6467,0,Pembangunan Sedang,0.46135502978770515,Rendah
+Maluku Utara,Kota Ternate,3.55,10.549,71.015,11.81,13290,1,Pembangunan Tinggi,0.7610934789768472,Tinggi
+Maluku Utara,Kota Tidore Kepulauan,6.58,2.978,69.395,9.95,8316,0,Pembangunan Sedang,0.6205933439230611,Sedang
+Papua Barat,Fakfak,22.86,5.207,68.5,8.97,7446,0,Pembangunan Sedang,0.4746317400346829,Rendah
+Papua Barat,Kaimana,16.04,2.712,64.935,8.58,8151,0,Pembangunan Sedang,0.47870682806335507,Rendah
+Papua Barat,Teluk Wondama,31.61,1.538,60.245,7.08,8034,2,Pembangunan Rendah,0.29312985031816446,Rendah
+Papua Barat,Teluk Bintuni,29.79,30.992,61.01,8.22,9708,2,Pembangunan Rendah,0.3592145901137391,Rendah
+Papua Barat,Manokwari,20.56,9.657,68.83,8.34,11977,0,Pembangunan Sedang,0.536023471014537,Rendah
+Papua Barat,Sorong Selatan,18.55,1.859,66.385,7.49,6188,2,Pembangunan Rendah,0.4303251348599079,Rendah
+Papua Barat,Sorong,27.78,10.791,66.23,8.33,7350,2,Pembangunan Rendah,0.4028509557955152,Rendah
+Papua Barat,Raja Ampat,17.5,2.963,64.835,8.02,7882,0,Pembangunan Sedang,0.4526554159888783,Rendah
+Papua Barat,Tambrauw,33.86,239.0,60.195,5.39,4903,2,Pembangunan Rendah,0.20191427133050635,Rendah
+Papua Barat,Maybrat,31.39,732.0,65.24,6.96,5245,2,Pembangunan Rendah,0.3124212331784997,Rendah
+Papua Barat,Manokwari Selatan,29.3,819.0,67.6,6.63,5505,2,Pembangunan Rendah,0.34799674700746663,Rendah
+Papua Barat,Pegunungan Arfak,34.7,218.0,67.26,5.12,5009,2,Pembangunan Rendah,0.27053539988431846,Rendah
+Papua Barat,Kota Sorong,15.35,15.601,70.94,11.19,13744,1,Pembangunan Tinggi,0.6772732621427382,Tinggi
+Papua,Merauke,10.16,16.036,67.17,8.73,10201,0,Pembangunan Sedang,0.570005192253617,Sedang
+Papua,Jayawijaya,37.09,8.156,59.88,5.6,7545,2,Pembangunan Rendah,0.2156265799825313,Rendah
+Papua,Jayapura,12.13,15.645,67.005,10.05,9989,0,Pembangunan Sedang,0.5818927352264106,Sedang
+Papua,Nabire,23.83,11.199,68.03,10.01,8856,0,Pembangunan Sedang,0.503722330403862,Rendah
+Papua,Kepulauan Yapen,26.09,4.159,69.07,9.47,7491,2,Pembangunan Rendah,0.47193205106985603,Rendah
+Papua,Biak Numfor,24.45,5.232,68.205,10.34,9607,0,Pembangunan Sedang,0.5183815306031253,Rendah
+Papua,Paniai,36.59,4.286,66.435,4.77,6377,2,Pembangunan Rendah,0.25884045648913223,Rendah
+Papua,Puncak Jaya,36.0,1.389,65.335,3.74,5289,2,Pembangunan Rendah,0.21413714499844005,Rendah
+Papua,Mimika,14.17,63.397,72.375,10.18,11400,1,Pembangunan Tinggi,0.6491793260724092,Tinggi
+Papua,Boven Digoel,19.9,4.863,60.3,8.79,7864,2,Pembangunan Rendah,0.40360313428281275,Rendah
+Papua,Mappi,26.05,2.987,65.305,6.51,6327,2,Pembangunan Rendah,0.3508556997856941,Rendah
+Papua,Asmat,24.83,2.572,58.555,5.08,5736,2,Pembangunan Rendah,0.2448181187924123,Rendah
+Papua,Yahukimo,37.64,2.506,66.045,4.27,4895,2,Pembangunan Rendah,0.2182592695203138,Rendah
+Papua,Pegunungan Bintang,30.46,1.969,64.415,3.04,5429,2,Pembangunan Rendah,0.22558808826642937,Rendah
+Papua,Tolikara,32.6,1.673,65.815,3.65,4841,2,Pembangunan Rendah,0.2335168441398292,Rendah
+Papua,Sarmi,13.84,2.943,66.455,8.83,6617,0,Pembangunan Sedang,0.495826928697112,Rendah
+Papua,Keerom,16.0,2.927,66.645,8.02,8926,0,Pembangunan Sedang,0.4954344603933848,Rendah
+Papua,Waropen,29.85,2.047,66.41,9.21,6788,2,Pembangunan Rendah,0.4039029319935145,Rendah
+Papua,Supiori,37.91,1.042,66.055,8.87,5708,2,Pembangunan Rendah,0.32764821736890565,Rendah
+Papua,Mamberamo Raya,28.78,1.725,57.99,5.87,4603,2,Pembangunan Rendah,0.21648042001194123,Rendah
+Papua,Nduga,37.18,1.271,55.37,1.42,3976,2,Pembangunan Rendah,0.028513238289205656,Rendah
+Papua,Lanny Jaya,38.73,1.935,66.015,3.43,4393,2,Pembangunan Rendah,0.18628070111140155,Rendah
+Papua,Mamberamo Tengah,36.76,1.215,63.75,3.33,4487,2,Pembangunan Rendah,0.17262456522228348,Rendah
+Papua,Yalimo,33.25,1.286,65.385,3.01,4664,2,Pembangunan Rendah,0.2083538486229864,Rendah
+Papua,Puncak,36.26,1.438,66.06,2.16,5412,2,Pembangunan Rendah,0.18746882777618662,Rendah
+Papua,Dogiyai,28.81,1.356,65.845,4.94,5415,2,Pembangunan Rendah,0.29344347989839764,Rendah
+Papua,Intan Jaya,41.66,1.274,65.58,3.09,5328,2,Pembangunan Rendah,0.1670855230610279,Rendah
+Papua,Deiyai,40.59,1.439,65.355,3.25,4673,2,Pembangunan Rendah,0.1666759492956083,Rendah
+Papua,Kota Jayapura,11.39,32.207,70.455,11.57,14937,1,Pembangunan Tinggi,0.72038887903272,Tinggi
