@@ -26,7 +26,7 @@ Sumatera Utara,Nias,16.82,4.041,69.745,5.64,6995,0,Pembangunan Sedang,0.44829152
 Sumatera Utara,Mandailing Natal,9.49,13.843,62.605,8.63,9771,0,Pembangunan Sedang,0.5159235742843191,Rendah
 Sumatera Utara,Tapanuli Selatan,8.8,14.642,64.935,9.29,11304,0,Pembangunan Sedang,0.5799294685569514,Sedang
 Sumatera Utara,Tapanuli Tengah,12.67,10.139,67.18,8.84,10138,0,Pembangunan Sedang,0.5557605127789379,Sedang
-Sumatera Utara,Tapanuli Utara,9.72,8.274,68.71,9.99,11710,0,Pembangunan Sedang,0.6364813494691971,Tinggi
+Sumatera Utara,Tapanuli Utara,9.72,8.274,68.71,9.99,11710,1,Pembangunan Tinggi,0.6364813494691971,Tinggi
 Sumatera Utara,Toba Samosir,8.99,7.845,70.21,10.57,12224,1,Pembangunan Tinggi,0.6769668106882426,Tinggi
 Sumatera Utara,Labuhan Batu,8.74,34.653,69.91,9.25,11212,0,Pembangunan Sedang,0.6335944899462572,Tinggi
 Sumatera Utara,Asahan,9.35,38.692,68.335,8.8,11030,0,Pembangunan Sedang,0.6000556062362062,Sedang
@@ -47,7 +47,7 @@ Sumatera Utara,Labuhan Batu Selatan,8.53,28.199,68.715,8.9,11562,0,Pembangunan S
 Sumatera Utara,Labuhan Batu Utara,10.02,25.191,69.535,8.41,11840,0,Pembangunan Sedang,0.6107581888097134,Sedang
 Sumatera Utara,Nias Utara,25.66,3.71,69.485,6.77,6155,2,Pembangunan Rendah,0.4033505624974611,Rendah
 Sumatera Utara,Nias Barat,26.42,1.923,69.03,6.69,5924,2,Pembangunan Rendah,0.38880145758567564,Rendah
-Sumatera Utara,Kota Sibolga,12.33,5.605,69.235,10.41,11540,0,Pembangunan Sedang,0.6327751298233459,Tinggi
+Sumatera Utara,Kota Sibolga,12.33,5.605,69.235,10.41,11540,1,Pembangunan Tinggi,0.6327751298233459,Tinggi
 Sumatera Utara,Kota Tanjung Balai,13.4,9.181,63.425,9.45,11225,0,Pembangunan Sedang,0.5363773449435826,Rendah
 Sumatera Utara,Kota Pematang Siantar,8.52,13.92,73.74,11.29,12436,1,Pembangunan Tinggi,0.7376438896361327,Tinggi
 Sumatera Utara,Kota Tebing Tinggi,10.3,6.049,70.935,10.44,12939,1,Pembangunan Tinggi,0.6828187840015052,Tinggi
@@ -148,7 +148,7 @@ Kepulauan Bangka Belitung,Belitung Timur,7.2,7.856,72.075,8.47,11760,0,Pembangun
 Kepulauan Bangka Belitung,Kota Pangkal Pinang,4.76,13.464,73.355,10.13,15716,1,Pembangunan Tinggi,0.773058907446213,Tinggi
 Kepulauan Riau,Karimun,6.85,13.311,71.065,8.18,11879,0,Pembangunan Sedang,0.643395407009295,Tinggi
 Kepulauan Riau,Bintan,6.42,20.744,70.41,8.67,14393,1,Pembangunan Tinggi,0.6811496132494899,Tinggi
-Kepulauan Riau,Natuna,4.95,18.406,65.245,8.92,14711,0,Pembangunan Sedang,0.6425485643710748,Tinggi
+Kepulauan Riau,Natuna,4.95,18.406,65.245,8.92,14711,1,Pembangunan Tinggi,0.6425485643710748,Tinggi
 Kepulauan Riau,Lingga,13.93,4.292,62.35,6.88,11938,0,Pembangunan Sedang,0.47369334844692756,Rendah
 Kepulauan Riau,Kepulauan Anambas,7.09,14.454,67.31,7.34,11950,0,Pembangunan Sedang,0.5826043707908022,Sedang
 Kepulauan Riau,Kota Batam,5.05,161.364,73.31,11.15,18034,1,Pembangunan Tinggi,0.8221647211387115,Tinggi
@@ -159,7 +159,7 @@ DKI Jakarta,Kota Jakarta Timur,4.28,470.998,74.485,11.67,17733,1,Pembangunan Tin
 DKI Jakarta,Kota Jakarta Pusat,4.94,701.98,74.15,11.39,17365,1,Pembangunan Tinggi,0.8290634702005227,Tinggi
 DKI Jakarta,Kota Jakarta Barat,4.31,469.918,73.655,10.78,20801,1,Pembangunan Tinggi,0.857343821522081,Tinggi
 DKI Jakarta,Kota Jakarta Utara,7.24,497.299,73.33,10.81,18762,1,Pembangunan Tinggi,0.810139311914702,Tinggi
-Jawa Barat,Bogor,8.13,236.147,71.385,8.31,10410,1,Pembangunan Tinggi,0.6232114215514662,Sedang
+Jawa Barat,Bogor,8.13,236.147,71.385,8.31,10410,0,Pembangunan Sedang,0.6232114215514662,Sedang
 Jawa Barat,Sukabumi,7.7,67.392,71.2,7.1,8850,0,Pembangunan Sedang,0.5777932455071599,Sedang
 Jawa Barat,Cianjur,11.18,47.523,70.34,7.19,8052,0,Pembangunan Sedang,0.5380355096168845,Rendah
 Jawa Barat,Bandung,7.15,123.049,73.73,9.07,10307,1,Pembangunan Tinggi,0.6708804995018138,Tinggi
@@ -173,7 +173,7 @@ Jawa Barat,Sumedang,10.71,35.491,72.63,8.52,10262,0,Pembangunan Sedang,0.6233764
 Jawa Barat,Indramayu,13.04,79.286,71.865,6.52,9810,0,Pembangunan Sedang,0.550545184499087,Sedang
 Jawa Barat,Subang,10.03,39.595,72.61,7.11,10854,0,Pembangunan Sedang,0.6040207470092614,Sedang
 Jawa Barat,Purwakarta,8.83,67.176,71.195,8.1,11669,0,Pembangunan Sedang,0.6278495326420044,Tinggi
-Jawa Barat,Karawang,8.95,225.064,72.355,7.78,11522,1,Pembangunan Tinggi,0.631126258155849,Tinggi
+Jawa Barat,Karawang,8.95,225.064,72.355,7.78,11522,0,Pembangunan Sedang,0.631126258155849,Tinggi
 Jawa Barat,Bekasi,5.21,317.943,73.81,9.3,11341,1,Pembangunan Tinggi,0.7021387923101734,Tinggi
 Jawa Barat,Bandung Barat,11.3,46.479,72.545,8.2,8546,0,Pembangunan Sedang,0.590120107248549,Sedang
 Jawa Barat,Pangandaran,9.65,11.498,71.615,7.85,9065,0,Pembangunan Sedang,0.5891288674222105,Sedang
@@ -266,7 +266,7 @@ Jawa Timur,Kota Surabaya,5.23,554.509,74.12,10.5,17862,1,Pembangunan Tinggi,0.81
 Jawa Timur,Kota Batu,4.09,15.917,72.6,9.31,12887,1,Pembangunan Tinggi,0.7154432003285555,Tinggi
 Banten,Pandeglang,10.72,28.493,64.75,7.11,8635,0,Pembangunan Sedang,0.48437752038025683,Rendah
 Banten,Lebak,10.29,29.077,67.285,6.41,8724,0,Pembangunan Sedang,0.5010797323826679,Rendah
-Banten,Tangerang,7.12,136.005,69.885,8.61,12273,1,Pembangunan Tinggi,0.6429254433589435,Tinggi
+Banten,Tangerang,7.12,136.005,69.885,8.61,12273,0,Pembangunan Sedang,0.6429254433589435,Tinggi
 Banten,Serang,5.49,76.601,64.715,7.51,10713,0,Pembangunan Sedang,0.5521290689284637,Sedang
 Banten,Kota Tangerang,5.93,143.84,71.55,10.83,14575,1,Pembangunan Tinggi,0.7465553258931299,Tinggi
 Banten,Kota Cilegon,4.24,103.182,66.645,10.08,13041,1,Pembangunan Tinggi,0.6670823818829088,Tinggi
@@ -424,7 +424,7 @@ Sulawesi Selatan,Kota Palopo,8.14,8.025,70.865,10.94,13117,1,Pembangunan Tinggi,
 Sulawesi Tenggara,Buton,13.92,3.782,68.38,7.92,7324,0,Pembangunan Sedang,0.5056588279317167,Rendah
 Sulawesi Tenggara,Muna,13.54,2.463,70.37,8.46,8218,0,Pembangunan Sedang,0.5532593370819641,Sedang
 Sulawesi Tenggara,Konawe,13.03,2.925,70.295,9.21,10151,0,Pembangunan Sedang,0.5963736129055749,Sedang
-Sulawesi Tenggara,Kolaka,12.43,6.988,71.205,8.99,12525,0,Pembangunan Sedang,0.6352960205309424,Tinggi
+Sulawesi Tenggara,Kolaka,12.43,6.988,71.205,8.99,12525,1,Pembangunan Tinggi,0.6352960205309424,Tinggi
 Sulawesi Tenggara,Konawe Selatan,11.34,2.618,70.855,8.11,9059,0,Pembangunan Sedang,0.5755441053849955,Sedang
 Sulawesi Tenggara,Bombana,10.76,10.304,69.065,8.04,8310,0,Pembangunan Sedang,0.5483957750296091,Sedang
 Sulawesi Tenggara,Wakatobi,14.91,25.551,70.47,8.16,9280,0,Pembangunan Sedang,0.5524122260461475,Sedang

@@ -146,7 +146,7 @@ except Exception as e:
     st.stop()
 
 # Definisi fitur
-features_cluster = ["poorpeople_percentage", "reg_gdp", "life_exp", "avg_schooltime", "exp_percap"]
+features_cluster = ["poorpeople_percentage", "life_exp", "avg_schooltime", "exp_percap"]
 features_model = ["poorpeople_percentage", "avg_schooltime", "life_exp", "exp_percap"]
 
 # Cache modeling K-Means untuk performa cepat
@@ -404,7 +404,7 @@ if page == "📊 Overview & Filter Wilayah":
 
         # 4. Detail Indikator Sosial-Ekonomi
         st.markdown("#### 📊 Detail Indikator Pembangunan")
-        col_d1, col_d2, col_d3, col_d4, col_d5 = st.columns(5)
+        col_d1, col_d2, col_d3, col_d4 = st.columns(4)
 
         with col_d1:
             val_pov = city_data["poorpeople_percentage"]
@@ -434,13 +434,6 @@ if page == "📊 Overview & Filter Wilayah":
             html_school = create_custom_metric("Rata-rata Lama Sekolah", f"{val_school:.2f} Tahun", diff_school_nat, diff_school_prov, is_poverty=False)
             st.markdown(html_school, unsafe_allow_html=True)
 
-        with col_d5:
-            val_gdp = city_data["reg_gdp"]
-            diff_gdp_nat = val_gdp - national_avg["reg_gdp"]
-            diff_gdp_prov = val_gdp - prov_avg["reg_gdp"]
-            html_gdp = create_custom_metric("PDRB (Regional GDP)", f"{val_gdp:.2f}", diff_gdp_nat, diff_gdp_prov, is_poverty=False)
-            st.markdown(html_gdp, unsafe_allow_html=True)
-
         st.markdown("---")
 
         # 5. Visualisasi Analisis Komparatif
@@ -453,8 +446,7 @@ if page == "📊 Overview & Filter Wilayah":
                 ("poorpeople_percentage", "Persentase Kemiskinan (%)"),
                 ("exp_percap", "Pengeluaran Per Kapita (Rp)"),
                 ("life_exp", "Angka Harapan Hidup (Tahun)"),
-                ("avg_schooltime", "Rata-rata Lama Sekolah (Tahun)"),
-                ("reg_gdp", "PDRB (Regional GDP)")
+                ("avg_schooltime", "Rata-rata Lama Sekolah (Tahun)")
             ],
             format_func=lambda x: x[1],
             key="overview_bar_indicator"
@@ -500,8 +492,8 @@ if page == "📊 Overview & Filter Wilayah":
             return [""] * len(row)
 
         styled_df = df_prov_ranked[[
-            "Peringkat", "cities_reg", "skor_pembangunan", "poorpeople_percentage", 
-            "exp_percap", "life_exp", "avg_schooltime", "reg_gdp", "label_cluster", "target_kategori_pembangunan"
+            "Peringkat", "cities_reg", "skor_pembangunan", "poorpeople_percentage",
+            "exp_percap", "life_exp", "avg_schooltime", "label_cluster", "target_kategori_pembangunan"
         ]].style.apply(highlight_selected, axis=1)
 
         st.dataframe(
@@ -514,7 +506,6 @@ if page == "📊 Overview & Filter Wilayah":
                 "exp_percap": st.column_config.NumberColumn("Pengeluaran per Kapita", format="Rp %d"),
                 "life_exp": st.column_config.NumberColumn("Harapan Hidup (Thn)", format="%.2f"),
                 "avg_schooltime": st.column_config.NumberColumn("Lama Sekolah (Thn)", format="%.2f"),
-                "reg_gdp": st.column_config.NumberColumn("PDRB (GDP)", format="%.2f"),
                 "label_cluster": st.column_config.TextColumn("Kluster K-Means"),
                 "target_kategori_pembangunan": st.column_config.TextColumn("Kategori (RF)")
             },
